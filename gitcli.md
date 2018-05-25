@@ -14,4 +14,5 @@ git log
 
 git reset —hard version-hashcode
 
-git reflow
+git reflog
+
