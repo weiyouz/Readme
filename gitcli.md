@@ -1,3 +1,5 @@
+git init
+
 git clone
 
 git add ./
@@ -14,5 +16,5 @@ git log
 
 git reset —hard version-hashcode
 
-git reflog
 
+git reflog
