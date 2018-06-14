@@ -16,5 +16,9 @@ git log
 
 git reset —hard version-hashcode
 
+<<<<<<< HEAD
 
 git reflog
+=======
+git reflow
+>>>>>>> parent of 58f84b0... fix reflog
